@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mission-admission/static/css/main.073c9b0a.css",
+    "main.js": "/mission-admission/static/js/main.7ad75586.js",
+    "static/js/787.c9af4e3c.chunk.js": "/mission-admission/static/js/787.c9af4e3c.chunk.js",
+    "static/media/latest-4.png": "/mission-admission/static/media/latest-4.118a93e9ba372dd27138.png",
+    "static/media/1.jpg": "/mission-admission/static/media/1.d62977deae8c52f6fca6.jpg",
+    "static/media/4.jpg": "/mission-admission/static/media/4.29977517e457ebfed1e7.jpg",
+    "static/media/3.jpg": "/mission-admission/static/media/3.a913d76461a4f24ec204.jpg",
+    "static/media/2.jpg": "/mission-admission/static/media/2.46a9443163e6bf7a4f6c.jpg",
+    "static/media/latest-1.jpg": "/mission-admission/static/media/latest-1.6b8388693b05219e156d.jpg",
+    "static/media/latest-3.jpg": "/mission-admission/static/media/latest-3.3d34e0e6189481787e60.jpg",
+    "static/media/latest-2.jpg": "/mission-admission/static/media/latest-2.1d554886e344f7468848.jpg",
+    "static/media/img5-edit.png": "/mission-admission/static/media/img5-edit.52d500203257b3bb9222.png",
+    "static/media/logo.jpg": "/mission-admission/static/media/logo.ae16ec0179a66fcf8660.jpg",
+    "index.html": "/mission-admission/index.html",
+    "main.073c9b0a.css.map": "/mission-admission/static/css/main.073c9b0a.css.map",
+    "main.7ad75586.js.map": "/mission-admission/static/js/main.7ad75586.js.map",
+    "787.c9af4e3c.chunk.js.map": "/mission-admission/static/js/787.c9af4e3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7ad75586.js"
+  ]
+}
