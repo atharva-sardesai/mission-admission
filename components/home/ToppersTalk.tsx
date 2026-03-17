@@ -1,23 +1,32 @@
 import { BRAND } from '@/lib/constants'
 
+// TODO: Replace null with actual YouTube video IDs once available
+// e.g. { id: 'ABC123xyz12', student: '...', ... }
+// Thumbnail will auto-appear once the real ID is added.
 const videos = [
   {
-    id: 'dQw4w9WgXcQ',
+    id: null as string | null,
     title: "Saurabh Wagaj's COEP Journey — JEE + MHT-CET Topper",
     student: 'Saurabh Wagaj',
     college: 'COEP Pune — Computer Engineering',
+    exam: 'JEE + MHT-CET',
+    initials: 'SW',
   },
   {
-    id: 'dQw4w9WgXcQ',
+    id: null as string | null,
     title: "Shreya Varne's NIT Success Story — JEE Main",
     student: 'Shreya Varne',
     college: 'MANIT Bhopal — CS',
+    exam: 'JEE Main',
+    initials: 'SV',
   },
   {
-    id: 'dQw4w9WgXcQ',
+    id: null as string | null,
     title: "Hemangi Koli's PICT CAP Round Strategy",
     student: 'Hemangi Koli',
     college: 'PICT Pune — Computer Engineering',
+    exam: 'MHT-CET',
+    initials: 'HK',
   },
 ]
 
@@ -48,22 +57,42 @@ export default function ToppersTalk() {
               rel="noopener noreferrer"
               className="group block bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-200 hover:-translate-y-1"
             >
-              {/* Thumbnail */}
-              <div className="relative aspect-video bg-[#0A1628] flex items-center justify-center overflow-hidden">
-                <img
-                  src={`https://img.youtube.com/vi/${v.id}/hqdefault.jpg`}
-                  alt={v.title}
-                  className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity"
-                />
-                {/* Play button */}
+              {/* Thumbnail — real YouTube image if ID provided, branded placeholder otherwise */}
+              <div className="relative aspect-video overflow-hidden">
+                {v.id ? (
+                  <img
+                    src={`https://img.youtube.com/vi/${v.id}/hqdefault.jpg`}
+                    alt={v.title}
+                    className="w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity"
+                  />
+                ) : (
+                  /* Branded placeholder — replace with real thumbnail once video ID is available */
+                  <div className="w-full h-full bg-gradient-to-br from-[#0A1628] to-[#112240] flex flex-col items-center justify-center gap-3 px-4">
+                    <div className="w-14 h-14 rounded-full bg-[#C9A84C]/20 border-2 border-[#C9A84C]/40 flex items-center justify-center text-[#C9A84C] font-bold text-xl">
+                      {v.initials}
+                    </div>
+                    <div className="text-center">
+                      <p className="text-white font-semibold text-sm leading-snug">{v.student}</p>
+                      <p className="text-[#C9A84C] text-xs mt-0.5">{v.exam}</p>
+                    </div>
+                    <div className="flex items-center gap-1.5 text-gray-400 text-xs">
+                      <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zm-14 9.4V8.4l6.3 3.6-6.3 3.6z"/>
+                      </svg>
+                      Watch on YouTube
+                    </div>
+                  </div>
+                )}
+                {/* Play button overlay */}
                 <div className="absolute inset-0 flex items-center justify-center">
-                  <div className="w-14 h-14 bg-[#FF0000] rounded-full flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
+                  <div className="w-14 h-14 bg-[#FF0000] rounded-full flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform opacity-90">
                     <svg className="w-6 h-6 text-white ml-1" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M8 5v14l11-7z" />
                     </svg>
                   </div>
                 </div>
               </div>
+
               <div className="p-4">
                 <h3 className="font-bold text-[#0A1628] text-sm mb-1 line-clamp-2 group-hover:text-[#C9A84C] transition-colors">
                   {v.title}
