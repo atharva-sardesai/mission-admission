@@ -1,0 +1,92 @@
+[
+  {
+    "id": "career-guidance",
+    "icon": "compass",
+    "title": "Personalized Career Guidance",
+    "shortDescription": "One-on-one sessions to identify the right stream, course, and college based on your strengths.",
+    "fullDescription": "Our expert counsellors conduct in-depth one-on-one sessions to understand each student's unique strengths, interests, and academic profile. We map these to the most suitable engineering, medical, or management streams and help families make informed decisions about course and college selection.",
+    "whoFor": "Students in Class 11-12 who are unsure about which stream or course to pursue, or students who have their entrance results and need help deciding the next step.",
+    "process": [
+      "Initial assessment: Academic profile, strengths, and interests evaluation",
+      "Career mapping: Align interests with available courses and career paths",
+      "College shortlisting: Data-driven recommendations based on scores and preferences",
+      "Action plan: Clear roadmap of next steps from exam to admission"
+    ],
+    "highlights": ["One-on-one sessions", "Interest & aptitude assessment", "Career path mapping", "College shortlisting"]
+  },
+  {
+    "id": "exam-strategy",
+    "icon": "target",
+    "title": "Exam Strategy & Preparation Planning",
+    "shortDescription": "JEE, CET, NEET preparation roadmaps, mock test analysis, and subject-wise planning.",
+    "fullDescription": "We create customized preparation plans for JEE Main/Advanced, MHT-CET, and NEET based on the student's current level, available time, and target score. Our strategy includes subject-wise priority, chapter weightage analysis, and regular mock test reviews.",
+    "whoFor": "Students in Class 11-12 currently preparing for JEE, MHT-CET, or NEET who want a structured, personalized preparation strategy.",
+    "process": [
+      "Baseline assessment: Evaluate current preparation level and weak areas",
+      "Custom roadmap: Create a week-by-week preparation schedule",
+      "Resource guidance: Recommend best books, mock test series, and coaching if needed",
+      "Monthly reviews: Track progress and adjust strategy based on mock test performance"
+    ],
+    "highlights": ["Customized study plans", "Mock test analysis", "Subject prioritization", "Weekly progress reviews"]
+  },
+  {
+    "id": "cap-round",
+    "icon": "list-checks",
+    "title": "CAP Round Counselling (Maharashtra)",
+    "shortDescription": "Data-driven college shortlisting and step-by-step guidance through Maharashtra's CAP rounds.",
+    "fullDescription": "Maharashtra's Centralized Admission Process (CAP) is complex, with multiple rounds, option forms, and seat freezing decisions. We guide students through every step — from option form filling to freezing the right seat — using historical cutoff data, placement records, and college reputation analysis.",
+    "whoFor": "Any student who has cleared MHT-CET or JEE and is seeking admission to engineering colleges in Maharashtra through CAP rounds.",
+    "process": [
+      "Cutoff analysis: Review last 3 years of cutoff data for shortlisted colleges",
+      "Option form strategy: Prioritize colleges based on score, preference, and probability",
+      "Round-wise monitoring: Track seat allotments and advise on upgrade/freeze decisions",
+      "Document support: Ensure all documents are ready for reporting to allotted college"
+    ],
+    "highlights": ["3-year cutoff data analysis", "Option form strategy", "Real-time round monitoring", "Seat freeze guidance"]
+  },
+  {
+    "id": "form-filling",
+    "icon": "file-text",
+    "title": "Form Filling & Documentation",
+    "shortDescription": "Error-free form filling for all entrance exams and admission portals with document checklist preparation.",
+    "fullDescription": "A single error in an entrance exam application or admission form can cause significant delays or disqualification. Our team ensures every form is filled accurately, all documents are in order, and deadlines are never missed. We maintain a complete document checklist for each student.",
+    "whoFor": "All students applying for JEE, MHT-CET, NEET, or any engineering/medical/MBA admission in Maharashtra.",
+    "process": [
+      "Application review: Check eligibility and gather required documents",
+      "Form filling: Accurate data entry for all entrance and admission forms",
+      "Document verification: Cross-check category certificate, domicile, income proof, etc.",
+      "Deadline tracking: Calendar of all important dates and submission deadlines"
+    ],
+    "highlights": ["Zero error guarantee", "Document checklist", "Deadline tracking", "Category certificate guidance"]
+  },
+  {
+    "id": "scholarship",
+    "icon": "indian-rupee",
+    "title": "Scholarship & Education Loan Assistance",
+    "shortDescription": "Identify applicable scholarships and connect with education loan providers for your admission.",
+    "fullDescription": "Many students miss out on significant scholarships simply because they don't know about them. We help identify all applicable scholarships — EBC, TFWS, minority, merit-based, government — and guide families through the application process. We also connect students with education loan providers for remaining fee needs.",
+    "whoFor": "Students seeking financial assistance for engineering, medical, or MBA admissions in Maharashtra.",
+    "process": [
+      "Eligibility check: Identify scholarships for which the student qualifies",
+      "Application support: Help with scholarship application forms and documents",
+      "Fee waiver guidance: TFWS (Tuition Fee Waiver Scheme) and EBC scholarship process",
+      "Loan facilitation: Connect with bank loan officers for education loans"
+    ],
+    "highlights": ["TFWS & EBC guidance", "Minority scholarship support", "Merit scholarship identification", "Loan provider connections"]
+  },
+  {
+    "id": "nri-quota",
+    "icon": "globe",
+    "title": "NRI Quota Admissions",
+    "shortDescription": "Specialized guidance for NRI quota admissions in top Maharashtra engineering and medical colleges.",
+    "fullDescription": "NRI quota seats offer excellent admission opportunities with different eligibility criteria. We specialize in guiding NRI candidates and their families through the unique documentation requirements, fees structure, and college options available under NRI quota in Maharashtra's top colleges.",
+    "whoFor": "Students who qualify under NRI quota (having an NRI parent/relative) and want to explore this admission pathway for engineering or medical colleges.",
+    "process": [
+      "Eligibility verification: Check NRI documentation and quota eligibility",
+      "College research: Identify top colleges with strong NRI quota seats",
+      "Fee comparison: Compare NRI quota fees vs regular quota options",
+      "Application support: Complete NRI quota application and documentation"
+    ],
+    "highlights": ["NRI documentation guidance", "College comparison", "Fee structure analysis", "Priority support"]
+  }
+]

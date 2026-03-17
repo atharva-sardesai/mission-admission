@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "What exams does Mission Admission provide counselling for?",
+    "answer": "We provide expert counselling for JEE Main & Advanced, MHT-CET (PCM & PCB), NEET UG, BITSAT, VITEEE, COMED-K, and MBA entrance exams including CAT, Maharashtra MBA CET, and SNAP. We also specialize in the entire Maharashtra CAP round process for engineering and medical admissions."
+  },
+  {
+    "id": 2,
+    "question": "How is Mission Admission different from other counsellors?",
+    "answer": "Three key differences: First, every session is one-on-one and fully personalized — we don't do batch counselling. Second, our recommendations are data-driven using 3+ years of cutoff trends, placement data, and fee structures. Third, we provide end-to-end support — from exam strategy to the day you report to college — not just one-time advice."
+  },
+  {
+    "id": 3,
+    "question": "What is CAP round counselling and why do I need it?",
+    "answer": "Maharashtra's Centralized Admission Process (CAP) is how engineering and pharmacy seats are allotted across 300+ colleges in the state. It involves multiple rounds of option form filling and seat allotment. One wrong priority in your option form can cost you your preferred college. Our CAP counselling uses historical cutoff data to help you prioritize colleges optimally, monitor round-wise allotments, and decide when to freeze vs upgrade your seat."
+  },
+  {
+    "id": 4,
+    "question": "Do you help with NRI quota admissions?",
+    "answer": "Yes, we have specialized experience with NRI quota admissions in Maharashtra. We guide NRI candidates through the unique documentation requirements (NRI passport, bank statements, relationship proof), college options, fee structures, and the application process for top engineering and medical colleges under NRI quota."
+  },
+  {
+    "id": 5,
+    "question": "Can I get counselling for both JEE and MHT-CET?",
+    "answer": "Absolutely. In fact, we strongly recommend students appearing for both exams to have an integrated strategy. We help you manage preparation for both simultaneously, understand how scores compare, and develop a comprehensive college selection plan covering both NIT/IIIT options (JEE) and Maharashtra state colleges (MHT-CET CAP rounds)."
+  },
+  {
+    "id": 6,
+    "question": "What documents are needed for engineering admission in Maharashtra?",
+    "answer": "For Maharashtra CAP round engineering admission, you typically need: 10th and 12th Marksheets & Passing Certificates, School/College Leaving Certificate, MHT-CET / JEE scorecard, Domicile Certificate (for state quota), Category Certificate (if applicable), Income Certificate (for scholarship), Nationality Certificate, Aadhaar Card, and passport-size photographs. We provide a complete personalized document checklist based on your category and choice of colleges."
+  },
+  {
+    "id": 7,
+    "question": "Do you provide online counselling or only in-person?",
+    "answer": "We provide both options. In-person sessions are available at our Balewadi, Pune office (Monday to Saturday, 9 AM to 8 PM). Online video call sessions are available for students outside Pune or those who prefer remote consultations. Many of our students from across Maharashtra and even abroad have benefited from our online counselling."
+  },
+  {
+    "id": 8,
+    "question": "How do I book a counselling session?",
+    "answer": "The easiest way is to WhatsApp us at +91 98222 81188 — we typically respond within a few hours. You can also call us directly, fill the inquiry form on this website, or visit our Balewadi office directly. For the counselling season (May-September), we recommend booking in advance as slots fill up quickly."
+  },
+  {
+    "id": 9,
+    "question": "What are your counselling fees?",
+    "answer": "We offer packages ranging from ₹5,000 for a basic one-time counselling session to ₹25,000 for our Premium Package covering multi-exam strategy, full CAP round support, NRI quota guidance, and scholarship assistance. We also offer a FREE 15-minute consultation call to understand your needs before you commit to any package. Please contact us for the latest pricing."
+  },
+  {
+    "id": 10,
+    "question": "Do you help with education loans and scholarships?",
+    "answer": "Yes. We help identify all scholarships a student is eligible for — including EBC (Economically Backward Class), TFWS (Tuition Fee Waiver Scheme), minority scholarships, and merit-based scholarships. Many of our students have had significant portions of their tuition waived through these schemes. We also connect families with education loan officers at banks for the remaining fees."
+  }
+]

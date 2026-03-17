@@ -1,0 +1,93 @@
+[
+  {
+    "exam": "JEE Main Session 1",
+    "event": "Application Window",
+    "date": "2026-01-01",
+    "displayDate": "November 2025",
+    "status": "past"
+  },
+  {
+    "exam": "JEE Main Session 1",
+    "event": "Exam",
+    "date": "2026-01-22",
+    "displayDate": "January 22-31, 2026",
+    "status": "past"
+  },
+  {
+    "exam": "NEET UG 2026",
+    "event": "Application",
+    "date": "2026-03-01",
+    "displayDate": "March 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "MHT-CET 2026 (PCM)",
+    "event": "Exam",
+    "date": "2026-04-15",
+    "displayDate": "April–May 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "JEE Main Session 2",
+    "event": "Exam",
+    "date": "2026-04-01",
+    "displayDate": "April 1–8, 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "BITSAT 2026",
+    "event": "Session 1",
+    "date": "2026-04-15",
+    "displayDate": "April 15–17, 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "JEE Advanced 2026",
+    "event": "Exam",
+    "date": "2026-05-18",
+    "displayDate": "May 18, 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "NEET UG 2026",
+    "event": "Exam",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "MHT-CET 2026",
+    "event": "Results",
+    "date": "2026-06-15",
+    "displayDate": "June 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "NEET 2026",
+    "event": "Results",
+    "date": "2026-06-10",
+    "displayDate": "June 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "Maharashtra CAP",
+    "event": "Round 1 Choice Filling",
+    "date": "2026-07-01",
+    "displayDate": "July 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "Maharashtra CAP",
+    "event": "Round 2",
+    "date": "2026-08-01",
+    "displayDate": "August 2026",
+    "status": "upcoming"
+  },
+  {
+    "exam": "Maharashtra CAP",
+    "event": "Round 3 / Institute Level",
+    "date": "2026-09-01",
+    "displayDate": "September 2026",
+    "status": "upcoming"
+  }
+]

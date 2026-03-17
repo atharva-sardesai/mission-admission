@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Saurabh Wagaj",
+    "college": "COEP Pune — Computer Engineering",
+    "exam": "JEE + MHT-CET",
+    "percentile": "99.2 percentile MHT-CET",
+    "quote": "Mission Admission's guidance was the game-changer for me. The CAP round strategy was spot-on — I got exactly the college and branch I wanted without any stress.",
+    "youtubeLink": "https://www.youtube.com/@missionadmission",
+    "initials": "SW",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Shreya Varne",
+    "college": "MANIT Bhopal — Computer Science",
+    "exam": "JEE Main",
+    "percentile": "97.8 percentile JEE Main",
+    "quote": "I was confused between accepting MANIT or waiting for Maharashtra CAP. The personalized advice I got from Mission Admission helped me make the right call — and I'm loving it here.",
+    "youtubeLink": "https://www.youtube.com/@missionadmission",
+    "initials": "SV",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Hemangi Koli",
+    "college": "PICT Pune — Computer Engineering",
+    "exam": "MHT-CET",
+    "percentile": "98.5 percentile MHT-CET",
+    "quote": "Prashant Sir's cutoff analysis was incredibly accurate. He told me exactly which option to fill first and I got PICT CS in Round 1 itself. Couldn't be happier!",
+    "youtubeLink": "https://www.youtube.com/@missionadmission",
+    "initials": "HK",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Janhavi Shaha",
+    "college": "Cummins College Pune — Electronics",
+    "exam": "MHT-CET",
+    "percentile": "95.3 percentile MHT-CET",
+    "quote": "As a girl student, I wanted a safe campus with strong placements. Mission Admission helped me understand why Cummins was the perfect fit for me. Best decision ever.",
+    "youtubeLink": "https://www.youtube.com/@missionadmission",
+    "initials": "JS",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Rahul Patil",
+    "college": "VJTI Mumbai — Mechanical Engineering",
+    "exam": "MHT-CET",
+    "percentile": "97.1 percentile MHT-CET",
+    "quote": "The option form strategy worked perfectly. I upgraded from my initial allotment to VJTI in Round 2 exactly as predicted. Mission Admission knows the CAP round system inside out.",
+    "youtubeLink": null,
+    "initials": "RP",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Priya Deshmukh",
+    "college": "KEM Hospital Mumbai — MBBS",
+    "exam": "NEET",
+    "percentile": "NEET Score: 620/720",
+    "quote": "Navigating NEET counselling for state quota vs All India quota is really confusing. Mission Admission simplified the entire process and I got my dream medical college.",
+    "youtubeLink": null,
+    "initials": "PD",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Aditya Kulkarni",
+    "college": "NIT Surathkal — Civil Engineering",
+    "exam": "JEE Main",
+    "percentile": "96.4 percentile JEE Main",
+    "quote": "I almost gave up on NIT after seeing my percentile. Mission Admission showed me NIT Surathkal civil was within reach and guided me through JoSAA counselling. Life-changing advice!",
+    "youtubeLink": null,
+    "initials": "AK",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Sneha Joshi",
+    "college": "Symbiosis Institute of Technology — IT",
+    "exam": "MHT-CET",
+    "percentile": "91.2 percentile MHT-CET",
+    "quote": "I had a good MHT-CET score but was unsure about private vs government colleges. Mission Admission's fee-vs-placement analysis helped me choose SIT confidently.",
+    "youtubeLink": null,
+    "initials": "SJ",
+    "featured": false
+  }
+]

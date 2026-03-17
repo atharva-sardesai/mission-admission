@@ -1,0 +1,130 @@
+[
+  {
+    "id": "jee-main",
+    "name": "JEE Main",
+    "fullName": "Joint Entrance Examination Main",
+    "conductedBy": "National Testing Agency (NTA)",
+    "icon": "calculator",
+    "color": "#FF6B00",
+    "description": "Gateway to NITs, IIITs, and GFTIs across India",
+    "dates2026": [
+      { "event": "Session 1", "date": "January 22-31, 2026", "status": "upcoming" },
+      { "event": "Session 2", "date": "April 1-8, 2026", "status": "upcoming" }
+    ],
+    "eligibility": "10+2 with Physics, Chemistry & Mathematics. Minimum 75% aggregate (65% for SC/ST).",
+    "pattern": "300 marks total. 90 questions across Physics, Chemistry & Mathematics. Multiple choice and numerical questions.",
+    "howWeHelp": "We provide personalized JEE Main strategy, chapter-wise priority planning, mock test analysis, and college prediction based on your NTA score."
+  },
+  {
+    "id": "jee-advanced",
+    "name": "JEE Advanced",
+    "fullName": "Joint Entrance Examination Advanced",
+    "conductedBy": "IITs (rotating)",
+    "icon": "award",
+    "color": "#C9A84C",
+    "description": "The only gateway to the prestigious IIT system",
+    "dates2026": [
+      { "event": "Registration", "date": "April 2026", "status": "upcoming" },
+      { "event": "Exam", "date": "May 2026", "status": "upcoming" }
+    ],
+    "eligibility": "Top 2.5 lakh JEE Main qualifiers. Maximum 2 attempts. Age: born on/after October 1, 2001.",
+    "pattern": "Two papers (Paper 1 & 2) each of 3 hours. Multiple choice, integer type, and matching questions.",
+    "howWeHelp": "Deep JEE Advanced preparation strategy, paper analysis, time management for 6-hour exam days, and IIT branch selection counselling."
+  },
+  {
+    "id": "mht-cet",
+    "name": "MHT-CET",
+    "fullName": "Maharashtra Common Entrance Test",
+    "conductedBy": "State Common Entrance Test Cell, Maharashtra",
+    "icon": "book-open",
+    "color": "#22C55E",
+    "description": "Primary entrance exam for engineering and pharmacy in Maharashtra",
+    "dates2026": [
+      { "event": "PCM Exam", "date": "April-May 2026", "status": "upcoming" },
+      { "event": "Results", "date": "June 2026", "status": "upcoming" },
+      { "event": "CAP Round 1", "date": "July 2026", "status": "upcoming" }
+    ],
+    "eligibility": "10+2 with Physics, Chemistry & Mathematics (PCM) or Biology (PCB). Maharashtra domicile preferred.",
+    "pattern": "PCM: 150 marks (Physics 50, Chemistry 50, Maths 50). MCQ format, no negative marking.",
+    "howWeHelp": "Complete MHT-CET strategy, Maharashtra-specific coaching, CAP round guidance, and cutoff analysis for top colleges."
+  },
+  {
+    "id": "neet",
+    "name": "NEET UG",
+    "fullName": "National Eligibility cum Entrance Test (Undergraduate)",
+    "conductedBy": "National Testing Agency (NTA)",
+    "icon": "heart-pulse",
+    "color": "#EF4444",
+    "description": "Single entrance exam for all medical (MBBS/BDS) admissions in India",
+    "dates2026": [
+      { "event": "Exam", "date": "May 2026", "status": "upcoming" },
+      { "event": "Results", "date": "June 2026", "status": "upcoming" },
+      { "event": "Counselling", "date": "July-August 2026", "status": "upcoming" }
+    ],
+    "eligibility": "10+2 with Physics, Chemistry & Biology/Biotechnology. Minimum 50% aggregate (40% for SC/ST/OBC).",
+    "pattern": "720 marks. 180 questions from Physics, Chemistry & Biology. 4 marks for correct, -1 for incorrect.",
+    "howWeHelp": "NEET preparation roadmap, biology-focused strategy, college selection for Maharashtra state quota and All India Quota."
+  },
+  {
+    "id": "bitsat",
+    "name": "BITSAT",
+    "fullName": "Birla Institute of Technology and Science Admission Test",
+    "conductedBy": "BITS Pilani",
+    "icon": "zap",
+    "color": "#8B5CF6",
+    "description": "Entrance to BITS Pilani, Goa, and Hyderabad campuses",
+    "dates2026": [
+      { "event": "Session 1", "date": "April 15-17, 2026", "status": "upcoming" },
+      { "event": "Session 2", "date": "May 2026", "status": "upcoming" }
+    ],
+    "eligibility": "Minimum 75% in PCM in 10+2. Should have studied Physics, Chemistry, English, and Math/Biology.",
+    "pattern": "Online test. 130 questions covering Physics, Chemistry, English, Logical Reasoning, and Maths. 3 hours.",
+    "howWeHelp": "BITSAT-specific preparation plan focused on English and Logical Reasoning sections, speed training, and application strategy."
+  },
+  {
+    "id": "viteee",
+    "name": "VITEEE",
+    "fullName": "VIT Engineering Entrance Examination",
+    "conductedBy": "VIT University",
+    "icon": "graduation-cap",
+    "color": "#0EA5E9",
+    "description": "Admission to VIT Vellore, Chennai, Bhopal, and AP campuses",
+    "dates2026": [
+      { "event": "Exam Window", "date": "April-May 2026", "status": "upcoming" }
+    ],
+    "eligibility": "60% aggregate in PCM/PCB in 10+2. Open to all nationalities.",
+    "pattern": "Online: 125 questions from Physics, Chemistry, Maths/Biology, English, and Aptitude. 2.5 hours.",
+    "howWeHelp": "VITEEE application, campus selection strategy, branch preference guidance, and scholarship opportunities at VIT."
+  },
+  {
+    "id": "comedk",
+    "name": "COMED-K",
+    "fullName": "Consortium of Medical Engineering and Dental Colleges of Karnataka",
+    "conductedBy": "COMED-K",
+    "icon": "map-pin",
+    "color": "#F59E0B",
+    "description": "Entrance to 150+ private engineering colleges in Karnataka",
+    "dates2026": [
+      { "event": "Exam", "date": "May 2026", "status": "upcoming" }
+    ],
+    "eligibility": "Minimum 45% in PCM in 10+2. Open to all states.",
+    "pattern": "Online: 180 questions from Physics, Chemistry & Maths. 3 hours. No negative marking.",
+    "howWeHelp": "COMED-K strategy for Maharashtra students, Karnataka college selection, and comparison with MHT-CET options."
+  },
+  {
+    "id": "cat-mba",
+    "name": "CAT / MBA CET",
+    "fullName": "Common Admission Test / MBA Common Entrance Test",
+    "conductedBy": "IIMs (CAT) / State CET Cell (MBA CET)",
+    "icon": "briefcase",
+    "color": "#10B981",
+    "description": "Gateway to IIMs, top B-schools, and Maharashtra MBA institutes",
+    "dates2026": [
+      { "event": "MBA CET", "date": "March 2026", "status": "upcoming" },
+      { "event": "CAT", "date": "November 2026", "status": "upcoming" }
+    ],
+    "eligibility": "Bachelor's degree with minimum 50% marks. Final year students can also apply.",
+    "pattern": "CAT: 66 questions, 2 hours. VARC, DILR, Quantitative Ability. MBA CET: 200 questions, 150 minutes.",
+    "howWeHelp": "MBA CET preparation, IIM vs Maharashtra B-school comparison, application strategy, GD-PI preparation, and scholarship guidance."
+  }
+]
