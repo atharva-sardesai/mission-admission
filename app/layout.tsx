@@ -91,7 +91,7 @@ const jsonLd = {
       sameAs: [
         'https://www.instagram.com/mission_admission_21',
         'https://t.me/Mission_admission',
-        'https://www.youtube.com/@missionadmission',
+        'https://www.youtube.com/@missionadmission4296',
       ],
     },
     {

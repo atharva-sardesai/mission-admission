@@ -16,7 +16,7 @@ export const BRAND = {
   social: {
     instagram: 'https://www.instagram.com/mission_admission_21',
     telegram: 'https://t.me/Mission_admission',
-    youtube: 'https://www.youtube.com/@missionadmission',
+    youtube: 'https://www.youtube.com/@missionadmission4296',
     whatsapp: 'https://wa.me/919822281188',
   },
   googleForm: 'https://forms.gle/6yQJoXXESvS7Sa1N8',
